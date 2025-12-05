@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Enkrumo
-- 👀 I’m interested in programming and stuff
-- 🌱 I’m currently learning Python
-- 📫 How to reach me:
-rn only via email:enkrumode@gmail.com
+- 👀 I’m interested in programming and machine learning
+Kaggle profile link: https://www.kaggle.com/deviant12
 
 <!---
 Enkrumo/Enkrumo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
